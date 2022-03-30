@@ -2,7 +2,7 @@
 [Astromatch](https://astromatch-diego-moreira.surge.sh/)
 
 ## Descrição do Projeto
-O Astromatch tem por objetivo reproduzir a experiências dos usuários de aplicativos de relacionamento.
+O Astromatch tem por objetivo reproduzir a experiência dos usuários de aplicativos de relacionamento.
 
 
 ## Desenvolvedor
