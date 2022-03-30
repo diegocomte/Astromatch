@@ -78,7 +78,7 @@ export const ProfileBio = styled.div`
 color: white;
 width: 360px;
 height: 68px;
-padding: 0px;
+padding-bottom: 7px;
 font-weight: bold;
 background-color: rgba(52, 52, 52, 0.6);
 text-align: center;
